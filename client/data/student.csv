@@ -1,0 +1,162 @@
+prn,name,email,password,skills,backlog,jobsalary,batch,branch,locality,cgpa,company,jobrole,bplace,mname
+17070122001,Aarohi Prasad,aarohi.prasad.btech2019@sitpune.edu.in,12345678,SQL,No,"13,76,249",2019-23,CSE,Pune,7.53,Ascent Technosystems Pvt. Ltd.,Oracle BI Developer Intern,Pune,Hina
+17070122002,abhimanyu sharawat,abhimanyu.sharawat.btech2019@sitpune.edu.in,12345678,SQL,No,"11,26,241",2019-23,CSE,Pune,6.25,Ascentt Technocraft Pvt Ltd,Oracle BI Developer,Pune,Veena
+17070122005,Aditya Raina,aditya.raina.btech2019@sitpune.edu.in,12345678,SQL,No,"15,65,707",2019-23,CSE,Pune,5.41,Cummins India Limited,Oracle Developer Intern ,Pune,Beena
+17070122010,Arunima Mishra,arunima.mishra.btech2019@sitpune.edu.in,12345678,Python,No,"12,10,050",2019-23,CSE,Pune,6.03,Cummins India Limited,Salesforce Developer Intern,Pune,Dina
+17070122011,Ayush Rajguru,ayush.rajguru.btech2019@sitpune.edu.in,12345678,Python,No,"11,85,303",2019-23,CSE,Pune,7.24,Cummins India Limited,IT intern (work on share point and power bi),Pune,Sangita
+17070122012,Ayushi Agrawal,ayushi.agrawal.btech2019@sitpune.edu.in,12345678,Javascript,No,"12,79,451",2019-23,CSE,Pune,9.67,Cummins India Limited,Developer,Pune,Bijal
+17070122013,Ayushmaan Verma,ayushmaan.verma.btech2019@sitpune.edu.in,12345678,C/C++,No,"10,96,080",2019-23,CSE,Hyderabad,7.69,Cyber Crime Department Of Telangana Police,Cyber Forensics in field of Cyber Security ,Pune,Rachna
+17070122016,Shaunak Chakraborty,shaunak.chakraborty.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"9,31,085",2019-23,CSE,Hyderabad,6.11,Daxndigital,Full Stack Developer,Pune,Ritu
+17070122017,Harika Challa,harika.challa.btech2019@sitpune.edu.in,12345678,C/C++,No,"19,44,733",2019-23,CSE,Hyderabad,7.3,Delta IOT India PVT Limited,Internet of things,Pune,Shaili
+17070122018,Dhairya Patel,dhairya.patel.btech2019@sitpune.edu.in,12345678,C/C++,No,"9,35,618",2019-23,CSE,Hyderabad,8.06,Optobizz Software Pvt. Ltd.,Developer Intern,Pune,Dhruvi
+17070122020,Evam Kaushik,evam.kaushik.btech2019@sitpune.edu.in,12345678,Javascript,No,"7,73,782",2019-23,CSE,Hyderabad,5.37,ThoughtGreen technologies Pvt LTD,Ui/ux developer,Pune,Pooja
+17070122021,Gaurav Joshi,gaurav.joshi.btech2019@sitpune.edu.in,12345678,flutter,No,"18,48,031",2019-23,CSE,"Doha, Qatar",8.12,Anvin Qatar W.L.L.,Mobile Application Developer ,Pune,Krisha
+17070122022,Hazim Maqsood,hazim.maqsood.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"15,51,300",2019-23,CSE,Mumbai,7.17,Fynd,Full stack developer,Pune,Manju
+17070122024,Ishansh Sahni,ishansh.sahni.btech2019@sitpune.edu.in,12345678,Javascript,No,"17,47,299",2019-23,CSE,Pune,5.67,Nuro Technologies,App Development,Pune,Vrushti
+17070122026,JANE SALDANHA,jane.saldanha.btech2019@sitpune.edu.in,12345678,Javascript,No,"13,68,038",2019-23,CSE,Pune,6.21,Nuro Technologies ,App development ,Pune,Sidhi
+17070122028,Kartik Bhushan,kartik.bhushan.btech2019@sitpune.edu.in,12345678,SQL,No,"10,27,582",2019-23,CSE,Pune,5.14,Spheregen Technologies Private Limited,Database Management,Pune,Hina
+17070122029,Saneeka Kharat,saneeka.kharat.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"11,93,222",2019-23,CSE,Pune,5.75,Syngenta India Ltd,Front End Web Developer,Pune,Veena
+17070122030,Khushi Vaghasiya,khushi.vaghasiya.btech2019@sitpune.edu.in,12345678,Python,No,"8,49,414",2019-23,CSE,Surat,6.97,Coruscate Solutions Pvt. Ltd. (Zujo Division),Data Scientist Intern,Pune,Beena
+17070122031,Prishita Kochhar,prishita.kochhar.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"11,40,320",2019-23,CSE,Surat,9.5,Elite Technocrats,Web Development using Angular for front end and . Net for back end,Pune,Dina
+17070122032,Arnav Kohli,arnav.kohli.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"8,68,160",2019-23,CSE,Vadodara,5.06,Webmyne system pvt.ltd.,Web development- Reactjs and nodejs.,Mumbai,Sangita
+17070122033,Krat Verma,krat.verma.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"12,13,500",2019-23,CSE,Ahmedabad,6.6,code land softwares llp ,intern,Mumbai,Bijal
+17070122034,Krithika Iyer,krithika.iyer.btech2019@sitpune.edu.in,12345678,Javascript,No,"8,14,682",2019-23,CSE,Ahmedabad,6.11,"Finbyz tech, Ahmedabad.",Web developer,Mumbai,Rachna
+17070122036,Kushagra Madaan,kushagra.madaan.btech2019@sitpune.edu.in,12345678,Python,No,"14,06,472",2019-23,CSE,Ahmedabad,7.32,"Poly9 , VP Techlabs Pvt. Ltd",Poly9 Trends & Auto-tagging with AI and ML.,Mumbai,Ritu
+17070122037,Ashmeet Singh Lamba,ashmeet.singh lamba.btech2019@sitpune.edu.in,12345678,Python,No,"13,73,394",2019-23,CSE,Ahmedabad,8.04,Tech Defence Labs,Vulnerability Assessment/Penetration Testing/Security Analyst Intern,Mumbai,Shaili
+17070122040,Mahip Tiwari,mahip.tiwari.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"10,23,822",2019-23,CSE,Pune,8.04,Tez Minds Software Pvt. Ltd.,Junior web developer.,Mumbai,Dhruvi
+17070122041,Mark Angelo Ronaldo Anacin,mark.angelo ronaldo anacin.btech2019@sitpune.edu.in,12345678,PHP,No,"8,96,371",2019-23,CSE,Pune,5.52,Aayansh Germinate Pvt. Ltd.,PHP Web Developer,Mumbai,Pooja
+17070122042,Nimit Mehts,nimit.mehts.btech2019@sitpune.edu.in,12345678,C/C++,No,"8,19,646",2019-23,CSE,Kuwait,7.9,Alroumi.solutions,IT support,Mumbai,Krisha
+17070122044,Mohammed Noor ul Hasan,mohammed.noor ul hasan.btech2019@sitpune.edu.in,12345678,C/C++,No,"19,21,444",2019-23,CSE,Pune,6.71,Anvitech SYS,Intern,Mumbai,Manju
+17070122045,Mayesh Mulay,mayesh.mulay.btech2019@sitpune.edu.in,12345678,Javascript,No,"10,23,436",2019-23,CSE,Aurangabad,5.96,Cosmo Films Ltd,Web development + machine learning (Data Science) +  SAP ABAP (Advanced Business Application Programming),Mumbai,Vrushti
+17070122046,Nihar Gupta,nihar.gupta.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"12,05,108",2019-23,CSE,Aurangabad,8.79,Expert global solutions Pvt Ltd,Intern / Trainee,Mumbai,Sidhi
+17070122047,P. Netra,p..netra.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"18,77,690",2019-23,CSE,Pune,9.52,Harman,Web Developer ,Mumbai,Hina
+17070122048,Siddhant Vandesh Pandit ,siddhant.vandesh pandit .btech2019@sitpune.edu.in,12345678,Python,No,"12,11,375",2019-23,CSE,Pune,8.29,Hinduja Tech Ltd.,Data preprocessing and analysis using customer data in real time project.,Mumbai,Veena
+17070122049,Anish Parekh,anish.parekh.btech2019@sitpune.edu.in,12345678,Python,No,"19,75,161",2019-23,CSE,Pune,7.01,Excellon Software,Quality Analyst,Mumbai,Beena
+17070122050,Parth Kakade ,parth.kakade .btech2019@sitpune.edu.in,12345678,Python,No,"7,83,550",2019-23,CSE,Pune,5.16,MAXGEN TECHNOLOGIES Pvt LTD,Project using python,Mumbai,Dina
+17070122051,Piyush Khedkar,piyush.khedkar.btech2019@sitpune.edu.in,12345678,java,No,"7,23,163",2019-23,CSE,Pune,5.93,MAXGEN TECHNOLOGIES Pvt LTD,JAVA TECHNOLOGY,Mumbai,Sangita
+17070122052,Purav Patel,purav.patel.btech2019@sitpune.edu.in,12345678,Python,No,"13,28,876",2019-23,CSE,Pune,8.09,MAXGEN TECHNOLOGIES Pvt LTD,Python - ML,Mumbai,Bijal
+17070122053,Rajiv Ramchandani,rajiv.ramchandani.btech2019@sitpune.edu.in,12345678,Python,No,"13,16,104",2019-23,CSE,Pune,5.35,TakeMePlaces.in,Application Developer and Digital Marketing,Mumbai,Rachna
+17070122054,Revin Raina,revin.raina.btech2019@sitpune.edu.in,12345678,Python,No,"18,55,432",2019-23,CSE,Bangalore,6.49,Decathlon Sports India Private Limited,Link monitoring and Stabilization,Mumbai,Ritu
+17070122055,Ritesh Bansal,ritesh.bansal.btech2019@sitpune.edu.in,12345678,Javascript,No,"18,94,972",2019-23,CSE,Bangalore,6,Flipshope,Full stack developer,Mumbai,Shaili
+17070122056,Riya Chaudhary ,riya.chaudhary .btech2019@sitpune.edu.in,12345678,java,No,"14,71,472",2019-23,CSE,Bangalore,9.5,GANGILVIRAJE SOLUTIONS PVT LTD,"Cloud AWS,java ",Mumbai,Dhruvi
+17070122057,Sai ojas bandaru,sai.ojas bandaru.btech2019@sitpune.edu.in,12345678,java,No,"16,20,282",2019-23,CSE,Bangalore,5.58,ISAN DATA SYSTEMS PVT LTD,Trainee Intern (Cloud Computing),Mumbai,Pooja
+17070122058,Adith Sanjeeve,adith.sanjeeve.btech2019@sitpune.edu.in,12345678,C/C++,No,"7,78,092",2019-23,CSE,Bangalore,6.65,Sonata Software ,Cyber Security,Mumbai,Krisha
+17070122059,Sarvochch Singh,sarvochch.singh.btech2019@sitpune.edu.in,12345678,python,No,"16,29,963",2019-23,CSE,Bangalore,9.32,tildehat,Data Science/ML Internship,Mumbai,Manju
+17070122060,Saumya Mohinani,saumya.mohinani.btech2019@sitpune.edu.in,12345678,Python,No,"18,13,287",2019-23,CSE,Bangalore,5.53,TransDigm Technologies India PVT LTD,Artificial Intelligence Intern,Mumbai,Vrushti
+17070122062,Siddharth Gulechha,siddharth.gulechha.btech2019@sitpune.edu.in,12345678,Python,No,"19,66,951",2019-23,CSE,Bangalore,9.99,Verloop,Machine Learning Intern,Mumbai,Sidhi
+17070122063,Siddharth Dalal,siddharth.dalal.btech2019@sitpune.edu.in,12345678,Python,No,"11,70,642",2019-23,CSE,Pune,8.52,Symbiosis center for applied AI,NLP based research project,Mumbai,Hina
+17070122064,Aditya Singh,aditya.singh.btech2019@sitpune.edu.in,12345678,Python,No,"12,39,632",2019-23,CSE,Pune,5.67,Symbiosis Centre for Applied AI,Research Intern,Mumbai,Veena
+17070122065,Akhil Singh,akhil.singh.btech2019@sitpune.edu.in,12345678,python,No,"16,96,156",2019-23,CSE,Pune,7.06,Tech Mahindra ,Student trainee,Mumbai,Beena
+17070122066,Rutvik Solanki,rutvik.solanki.btech2019@sitpune.edu.in,12345678,Python,No,"18,96,829",2019-23,CSE,Pune,6.28,Tech Mahindra ,AI/ML research,Mumbai,Dina
+17070122067,Soumi Mandal ,soumi.mandal .btech2019@sitpune.edu.in,12345678,Python,No,"8,25,695",2019-23,CSE,Pune,9.65,Tech Mahindra ,Intern at D-Transform Project,Mumbai,Sangita
+17070122068,Supriya Anand,supriya.anand.btech2019@sitpune.edu.in,12345678,Python,No,"6,69,664",2019-23,CSE,Pune,8.06,TechMahindra,Natural Language Processing,Mumbai,Bijal
+17070122069,URJIT Tembhurnikar,urjit.tembhurnikar.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"7,59,406",2019-23,CSE,Pune,8.7,PacificBlue,Web Developer,Mumbai,Rachna
+17070122070,Urvi Rawat,urvi.rawat.btech2019@sitpune.edu.in,12345678,flutter,No,"18,41,360",2019-23,CSE,Pune,8.46,Bluebricks Technologies Private Limited,Flutter Developer ,Mumbai,Ritu
+17070122071,Vaibhav Jaiswal,vaibhav.jaiswal.btech2019@sitpune.edu.in,12345678,Python,No,"8,16,749",2019-23,CSE,Pune,8.55,Bluebricks Technologies Private Limited,AI/Deep Learning,Mumbai,Shaili
+17070122072,Vaibhav Verma,vaibhav.verma.btech2019@sitpune.edu.in,12345678,C/C++,No,"6,58,890",2019-23,CSE,Pune,9.88,Bluebricks Technologies Private Limited,BlockChain and Smart Contract Developer,Mumbai,Dhruvi
+17070122073,Varun Saha,varun.saha.btech2019@sitpune.edu.in,12345678,Python,No,"18,32,383",2019-23,CSE,Pune,8.67,Bluebricks Technologies Private Limited,AI/Deep Learning,Mumbai,Pooja
+17070122074,Vinay Kumar,vinay.kumar.btech2019@sitpune.edu.in,12345678,Python,No,"7,13,783",2019-23,CSE,Gurgaon,8.46,Ameyo,Support associate,Mumbai,Krisha
+17070122075,Vidisha Wagle,vidisha.wagle.btech2019@sitpune.edu.in,12345678,Python,No,"9,12,699",2019-23,CSE,Noida,5.64,Fareye Limited,Data analyst ,Mumbai,Manju
+17070122076,Devika Walimbe,devika.walimbe.btech2019@sitpune.edu.in,12345678,C/C++,No,"12,63,530",2019-23,CSE,Noida,8.01,FlagBits Technologies,Jr. Software Developer Trainee,Mumbai,Vrushti
+17070122077,Yagnik Bhargav,yagnik.bhargav.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"15,91,051",2019-23,CSE,Noida,9.88,goldilocks tech solution pvt ltd,web based development in java,Mumbai,Sidhi
+17070122078,Yash Dave,yash.dave.btech2019@sitpune.edu.in,12345678,Python,Yes,"8,96,565",2019-23,CSE,Noida,9.83,Massive Mobility,Data Analyst,Mumbai,Hina
+17070122079,Zainuddin Fariduddin Saiyed,zainuddin.fariduddin saiyed.btech2019@sitpune.edu.in,12345678,Python,Yes,"10,16,313",2019-23,CSE,Gurgaon,6.79,Publicis Sapient,"Title -Jr. Associate Marketing Strategy & Analysis (Data Analytics) , Role- Data Analyst",Mumbai,Veena
+17070124001,Aayush Srivastava,aayush.srivastava.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"15,33,152",2019-23,CSE,Chandigarh,7.11,Speedum Technologies,Web Development,Mumbai,Beena
+17070124003,Abhas Gupta,abhas.gupta.btech2019@sitpune.edu.in,12345678,Javascript,Yes,"6,19,849",2019-23,CSE,Pune,5.03,Agri10x,"Web Developer ( Angular, MongoDB)",Mumbai,Dina
+17070124004,Aditya Ranjan,aditya.ranjan.btech2019@sitpune.edu.in,12345678,Javascript,Yes,"13,38,497",2019-23,CSE,Pune,7.65,Agri10x,"Web Developer (NodeJS), MongoDB, Javascript",Mumbai,Sangita
+17070124005,Kartik Agarwal,kartik.agarwal.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"11,79,746",2019-23,CSE,Pune,8.81,Agri10x,Web developer,Mumbai,Bijal
+17070124006,Sai Krishana P. Agrawal,sai.krishana p. agrawal.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"19,68,807",2019-23,CSE,Pune,5.9,Agri10X,Web Developer,Mumbai,Rachna
+17070124007,Akul Bhardwaj,akul.bhardwaj.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"19,04,130",2019-23,CSE,Pune,8.94,Agri10x,Web Developer,Mumbai,Ritu
+17070124008,Ananya Sharma,ananya.sharma.btech2019@sitpune.edu.in,12345678,Python,Yes,"9,86,770",2019-23,CSE,Pune,6.59,Agri10x ,Data Analysis/Content Writing,Mumbai,Shaili
+17070124009,Ankita Roy,ankita.roy.btech2019@sitpune.edu.in,12345678,flutter,Yes,"9,40,995",2019-23,CSE,Pune,8.51,Agri10x ,Android Developer,Mumbai,Dhruvi
+17070124010,Anshul Singhal,anshul.singhal.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"6,59,387",2019-23,CSE,Pune,6.05,Agri10x ,Web Developer(Angular/MongoDB/Node.js),Mumbai,Pooja
+17070124011,Ashmit Bhardwaj,ashmit.bhardwaj.btech2019@sitpune.edu.in,12345678,Python,Yes,"10,03,966",2019-23,CSE,Pune,9.78,Crenexa,Assist with the software projects ,Mumbai,Krisha
+17070124012,Sai Sameera Bangaru,sai.sameera bangaru.btech2019@sitpune.edu.in,12345678,java,Yes,"7,32,851",2019-23,CSE,Indore,8.45,Impetus Technologies India Pvt. Ltd.,Java and Mysql,Mumbai,Manju
+17070124013,Dvij Barot,dvij.barot.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"17,87,448",2019-23,CSE,Indore,5.68,Surtel Technologies Pvt Ltd,E-Commerce,Mumbai,Vrushti
+17070124014,Bhavya Bathiya,bhavya.bathiya.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"6,93,612",2019-23,CSE,Mumbai,6.23,Fynd,Front End Developer,Mumbai,Sidhi
+17070124015,C.V.SRIVAISHNAVI ,c.v.srivaishnavi..btech2019@sitpune.edu.in,12345678,Python,Yes,"11,48,931",2019-23,CSE,Mumbai,9.68,Markytics,Data Science Intern,Mumbai,Hina
+17070124016,Charvi Khandelwal,charvi.khandelwal.btech2019@sitpune.edu.in,12345678,Python,No,"7,32,451",2019-23,IT,Mumbai,6.73,Servify,"Intern Software Security Engineer
+1. Understand the working of the firewall and monitor the traffic going through it.
+2. work on Amazon Web Services
+3. develop a basic Firewall using Amazon Web Services WAF",Mumbai,Veena
+17070124017,Divyajitsinh Chauhan,divyajitsinh.chauhan.btech2019@sitpune.edu.in,12345678,C/C++,No,"10,72,088",2019-23,IT,Mumbai,9.3,SEVEN LAKES TECHNOLOGY,Software Development,Mumbai,Beena
+17070124018,Darshit Sharma ,darshit.sharma .btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"6,76,634",2019-23,IT,Mumbai,9.08,Terribly Tiny Tales Pvt Ltd,Full Stack Developer Intern,Mumbai,Dina
+17070124019,Deeptanshu Panthi,deeptanshu.panthi.btech2019@sitpune.edu.in,12345678,Python,No,"9,78,750",2019-23,IT,Mumbai,5.46,UnFound (Humanity plus Technologies Pvt. Ltd.),Machine Learning Intern,Mumbai,Sangita
+17070124020,Drizzle Tanwani,drizzle.tanwani.btech2019@sitpune.edu.in,12345678,Javascript,No,"10,95,900",2019-23,IT,Mumbai,9.49,VNF ideas private limited.,Backend Developer,Mumbai,Bijal
+17070124021,Gadikota Harita,gadikota.harita.btech2019@sitpune.edu.in,12345678,Python,No,"16,84,272",2019-23,IT,Pune,7.83,Bajaj Finance Limited (BFL),"Analysis of customer experience & behaviour for using digital channels v/s assisted channels (Database Architecture, Web Portal Design by analysing customer experience as well as behaviour)",Mumbai,Rachna
+17070124022,Manan Gandhi,manan.gandhi.btech2019@sitpune.edu.in,12345678,Python,No,"10,35,831",2019-23,IT,Pune,9.68,Bajaj Finserv Health Limited,Data Science,Mumbai,Ritu
+17070124023,Siddhesh Gore,siddhesh.gore.btech2019@sitpune.edu.in,12345678,Python,No,"14,61,338",2019-23,IT,Pune,5.34,Bajaj Finserv Health Limited,AI/ML Intern,Mumbai,Shaili
+17070124024,Harsh Raj,harsh.raj.btech2019@sitpune.edu.in,12345678,Python,No,"14,87,743",2019-23,IT,Pune,8.56,Bajaj Finserv Health Limited,Data Science,Mumbai,Dhruvi
+17070124025,Harshil Shrivastava,harshil.shrivastava.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"16,03,104",2019-23,IT,Pune,5.61,Bajaj Finserv Health Limited,Frontend developer,Mumbai,Pooja
+17070124026,Honey Sharma,honey.sharma.btech2019@sitpune.edu.in,12345678,C/C++,No,"13,59,743",2019-23,IT,Pune,7.26,Bajaj Finserv Health Limited,Research Analyst ,Mumbai,Krisha
+17070124027,Jahnavi Tallapally,jahnavi.tallapally.btech2019@sitpune.edu.in,12345678,C/C++,No,"18,16,799",2019-23,IT,Pune,7.23,Bajaj Finserv Health Limited,Software Development Intern,Mumbai,Manju
+17070124028,Yatharth Jain,yatharth.jain.btech2019@sitpune.edu.in,12345678,flutter,No,"19,38,088",2019-23,IT,Pune,7.09,Aukpro Solutions Private Limited,Web and App Development ,Mumbai,Vrushti
+17070124029,Gaurav Joshi,gaurav.joshi.btech2019@sitpune.edu.in,12345678,flutter,No,"7,05,355",2019-23,IT,Pune,9.74,Bee Logical software solutions,Software developer,Mumbai,Sidhi
+17070124030,Akshit Kalita,akshit.kalita.btech2019@sitpune.edu.in,12345678,flutter,No,"15,83,480",2019-23,IT,Pune,5.13,Bits&BytesLabs,Android App Development ,Mumbai,Hina
+17070124031,Kanishka jain,kanishka.jain.btech2019@sitpune.edu.in,12345678,C/C++,No,"11,50,927",2019-23,IT,Pune,9.43,eQ Technologic ,Software Engineer ,Mumbai,Veena
+17070124032,Karan Gulati,karan.gulati.btech2019@sitpune.edu.in,12345678,python,No,"18,40,575",2019-23,IT,Pune,9.95,IBM,"Project name - Telecom business operation monitoring dashboard. 
+
+Description -this project is a well-designed dashboard which can turn the growing tide of data into a highly digestible format with graphic information that’s easy to read. This dashboard will display various operation KPI like API monitoring, per min recharge , per min activations etc. Dashboard will also flag if there is any issues with business continuity.",Mumbai,Beena
+17070124033,Keshav Basandrai,keshav.basandrai.btech2019@sitpune.edu.in,12345678,flutter,No,"8,52,452",2019-23,IT,Pune,7.83,Multiplactous,App Devlopment/Programmer,Mumbai,Dina
+17070124034,Yash Koradia ,yash.koradia .btech2019@sitpune.edu.in,12345678,python,No,"16,28,006",2019-23,IT,Nagpur,9.24,TechGenyz Software Private Limited,Intern-Application Developer,Mumbai,Sangita
+17070124035,Kriti Singh,kriti.singh.btech2019@sitpune.edu.in,12345678,C/C++,No,"16,09,944",2019-23,IT,Pune,9.09,A Buzz Company,"Responsibilities - Tech requirements for two projects 
+
+- Assist in building App based web interface for Creative Bharat e-publication 
+- Assist in building App based web interface for Startup to Stand out knowledge events platform for startups 
+
+Technical requirements 
+- Build API for external users to create their own events on SUSO. 
+- Automate mailer campaign on new events featured. 
+",Mumbai,Bijal
+17070124036,Kulveen Kaur,kulveen.kaur.btech2019@sitpune.edu.in,12345678,Python,No,"6,66,810",2019-23,IT,Pune,6.6,OG Advertising private limited,Web Technology Associate(intern),Mumbai,Rachna
+17070124037,Mahika sharma,mahika.sharma.btech2019@sitpune.edu.in,12345678,Python,No,"8,19,867",2019-23,IT,Pune,7.36,OG Advertising private limited,Web Technology Associate Intern,Mumbai,Ritu
+17070124038,Jay Makwana,jay.makwana.btech2019@sitpune.edu.in,12345678,Python,No,"14,33,145",2019-23,IT,Pune,5.66,OG Advertising private limited,Web Technology Associate(Intern),Mumbai,Shaili
+17070124039,Manish Attri,manish.attri.btech2019@sitpune.edu.in,12345678,Python,No,"12,07,187",2019-23,IT,Pune,7.38,OG Advertising private limited,Web Technology Associate(Intern),Mumbai,Dhruvi
+17070124040,Manish Hanuman Rathod,manish.hanuman rathod.btech2019@sitpune.edu.in,12345678,sql,No,"18,23,386",2019-23,IT,Bahrain,5.24,SayG S.P.C Bahrain,Web Technology (PHP/SQL),Mumbai,Pooja
+17070124042,Meka haritha,meka.haritha.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"17,05,634",2019-23,IT,Pune,5.26,Comet Digital Private Limited,Web Developer,Ahmedabad,Krisha
+17070124043,Misha Mody,misha.mody.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"15,04,271",2019-23,IT,Pune,8.88,DHI technologies private limited,Web development,Ahmedabad,Manju
+17070124044,Mukund Khandelwal,mukund.khandelwal.btech2019@sitpune.edu.in,12345678,Java,No,"15,90,278",2019-23,IT,Pune,8.01,KION India Pvt. Ltd.,Java and SAP Projects,Ahmedabad,Vrushti
+17070124045,Pranav Nayak,pranav.nayak.btech2019@sitpune.edu.in,12345678,Java,No,"17,26,315",2019-23,IT,Pune,6.92,MODERNMONK HEALTHCARE PVT. LTD.,I am handling the WordPress Development and Android Development of ModernMonk.in,Ahmedabad,Sidhi
+17070124046,Nistha Srivastava,nistha.srivastava.btech2019@sitpune.edu.in,12345678,Java,No,"6,69,804",2019-23,IT,Pune,7.31,ohum healthcare solutions pvt ltd pune,"understanding the functional requirements and data flow into the system.Gaining the knowledge on advanced J2EE frameworks.Fixing the bugs to ensure the bugs free releases.
+Working on DB queries to get the filtered data.",Ahmedabad,Hina
+17070124047,Onkar Sinha,onkar.sinha.btech2019@sitpune.edu.in,12345678,SQL,No,"9,85,234",2019-23,IT,Pune,6.36,Tradexa Technologies Pvt. Ltd.,Flutter Developer,Ahmedabad,Veena
+17070124048,Palak Nath,palak.nath.btech2019@sitpune.edu.in,12345678,Python,No,"10,98,101",2019-23,IT,Pune,7.97,Wolters Kluwer,Data Science Intern,Ahmedabad,Beena
+17070124049,Yash Pareek,yash.pareek.btech2019@sitpune.edu.in,12345678,C/C++,No,"10,21,289",2019-23,IT,Mumbai,7.73,Career Ninja,Frontend Developer,Ahmedabad,Dina
+17070124051,Prateek Agrawal,prateek.agrawal.btech2019@sitpune.edu.in,12345678,Javascript,No,"15,48,088",2019-23,IT,Mumbai,8.24,Credence Analytics,Backend developer intern,Ahmedabad,Sangita
+17070124052,Pratik S Gupta,pratik.s gupta.btech2019@sitpune.edu.in,12345678,Python,No,"15,58,511",2019-23,IT,Pune,5.3,CRIF solutions private limited.,Working as an intern at  CRIF Global Technology India Team. Product and App devlopment for credit bureau. Project name: Credit Flow.,Ahmedabad,Bijal
+17070124055,Raithatha Dhruvit,raithatha.dhruvit.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"6,05,212",2019-23,IT,Mumbai,7.11,SM Global,Website Developer,Ahmedabad,Rachna
+17070124056,Raunak Kumar Verma ,raunak.kumar verma .btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"10,76,868",2019-23,IT,Mumbai,8.91,tag8 - 3Y Ventures LLP,Web Development,Ahmedabad,Ritu
+17070124057,Richa Rao,richa.rao.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"8,75,162",2019-23,IT,Mumbai,7.05,Verve Media,Junior Web Developer/ Business Analyst ,Ahmedabad,Shaili
+17070124058,Rishabh Malhotra,rishabh.malhotra.btech2019@sitpune.edu.in,12345678,Javascript,No,"13,12,716",2019-23,IT,Pune,5.9,Data Science Technologies (Pvt) Ltd,"Creating Intelligent Enterprise Full Stack Solutions which involves (as a indicative list) – product engineering, integrating our range of solutions to give our customers a seamless User Experience, embedding & building Machine Learning models (primarily in the Sales and Marketing domain), and working on various other aspects of building intelligent enterprise cloud and app-based products.",Ahmedabad,Dhruvi
+17070124059,Saloni Sarbhai,saloni.sarbhai.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"19,30,895",2019-23,IT,Pune,7.8,Ecotech IT Solutions,Web Development ,Ahmedabad,Pooja
+17070124061,Saumya Pandey,saumya.pandey.btech2019@sitpune.edu.in,12345678,C/C++,No,"13,05,609",2019-23,IT,Mumbai,5.89,HERE Technologies,"Software Intern, working on extracting location data from GIS Satellite.",Ahmedabad,Krisha
+17070124062,Sheroy Rohilla,sheroy.rohilla.btech2019@sitpune.edu.in,12345678,C/C++,No,"12,97,319",2019-23,IT,Vadodara,8.41,Infinix Trips Pvt Ltd,Founder & Director of Startup,Ahmedabad,Manju
+17070124063,Shivam Gupta,shivam.gupta.btech2019@sitpune.edu.in,12345678,C/C++,No,"15,69,053",2019-23,IT,Pune,8.75,Pawfect,Software development engineering intern ,Ahmedabad,Vrushti
+17070124064,Shraddheya thakur,shraddheya.thakur.btech2019@sitpune.edu.in,12345678,C/C++,No,"16,74,569",2019-23,IT,Pune,5.89,Pawfect,Software development engineering intern ,Ahmedabad,Sidhi
+17070124065,Shubham Tiwari,shubham.tiwari.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"11,92,870",2019-23,IT,Pune,8.61,Transition Computing India,Web Developer,Ahmedabad,Hina
+17070124066,Siddharth Saran,siddharth.saran.btech2019@sitpune.edu.in,12345678,Java,No,"11,64,626",2019-23,IT,Pune,8.37,Wednesday solutions,Intern,Ahmedabad,Veena
+17070124067,Suryapratap Singh Rathore,suryapratap.singh rathore.btech2019@sitpune.edu.in,12345678,Javascript,No,"11,78,618",2019-23,IT,Navi Mumbai,7.49,DigimargeterZ,Web Designing and Development,Ahmedabad,Beena
+17070124068,Utkarsh Singh,utkarsh.singh.btech2019@sitpune.edu.in,12345678,Javascript,No,"6,26,692",2019-23,IT,Pune,9.21,Finlok(Janmitr Solutions Pvt Ltd ),Java web developer,Ahmedabad,Dina
+17070124069,Vedant Verma ,vedant.verma .btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"13,86,576",2019-23,IT,Pune,6.88,Finlok(Janmitr Solutions Pvt Ltd ),UX in Android Development,Ahmedabad,Sangita
+17070124070,Arinze Courage Chinemelum,arinze.courage chinemelum.btech2019@sitpune.edu.in,12345678,C/C++,No,"10,45,167",2019-23,IT,Navi Mumbai,9.8,Reliance JIO,Software Developer,Ahmedabad,Bijal
+18070122503,Dhairya Ambade,dhairya.ambade.btech2019@sitpune.edu.in,12345678,HTML/CSS,No,"19,94,704",2019-23,IT,Navi Mumbai,5.46,S-Tech Engineering,Web Development,Ahmedabad,Rachna
+18070122504,Divya Bhatia,divya.bhatia.btech2019@sitpune.edu.in,12345678,C/C++,No,"12,82,970",2019-23,IT,Navi Mumbai,5.25,TSS Consultancy Pvt. Ltd.,Manual Tester,Ahmedabad,Ritu
+18070122505,Nihal ahmed mohd usman hannure,nihal.ahmed mohd usman hannure.btech2019@sitpune.edu.in,12345678,C/C++,No,"14,16,285",2019-23,IT,Navi Mumbai,7.42,TSS Consultancy Pvt. Ltd.,Software Developer Intern,Ahmedabad,Shaili
+18070122507,Mugdha Madhav Kulkarni ,mugdha.madhav kulkarni .btech2019@sitpune.edu.in,12345678,Flutter,No,"6,63,879",2019-23,IT,Delhi,9.4,Center for Railway Information System(CRIS),Android Development Intern,Ahmedabad,Dhruvi
+18070122509,Rohan Deshpande,rohan.deshpande.btech2019@sitpune.edu.in,12345678,C/C++,No,"17,43,178",2019-23,IT,New Delhi,5.53,CSC e-Governance Services India Limited,Software Developer ,Ahmedabad,Pooja
+18070122510,Sushant Shenoy,sushant.shenoy.btech2019@sitpune.edu.in,12345678,C/C++,No,"8,53,287",2019-23,IT,New Delhi,5.62,HPC Sphere,C++ Developer,Ahmedabad,Krisha
+18070122512,Gunvant Rane,gunvant.rane.btech2019@sitpune.edu.in,12345678,Javascript,No,"15,13,500",2019-23,IT,Pune,8.96,Khabya Infratech,Backend Devlopment,Ahmedabad,Manju
+18070124501,Vaibhavi Vinayak Dhamdhere,vaibhavi.vinayak dhamdhere.btech2019@sitpune.edu.in,12345678,java,No,"11,57,672",2019-23,IT,Delhi,8.59,Motherson Sumi Infotech & Design Ltd,"Core Java and  Advance java,Spring,Spring boot and hibernate Frameworks",Ahmedabad,Vrushti
+18070124502,Kaustubh Kale,kaustubh.kale.btech2019@sitpune.edu.in,12345678,flutter,No,"6,80,335",2019-23,IT,"Dehradun, Uttarakhand",9.41,Srijan Software Services,Job Description: Android Developer (Flutter),Ahmedabad,Sidhi
+18070124504,arjun pareek ,arjun.pareek .btech2019@sitpune.edu.in,12345678,Python,Yes,"10,66,554",2019-23,IT,Delhi,8.32,Vertonics Innovations Private Limited,Python Developer Intern,Ahmedabad,Hina
+18070124505,Saaransh Kaushik,saaransh.kaushik.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"17,12,586",2019-23,IT,Pune,5.06,BotBakery,Web Developer Intern,Ahmedabad,Veena
+18070124507,Shubhankar Shetti,shubhankar.shetti.btech2019@sitpune.edu.in,12345678,Flutter,Yes,"9,39,213",2019-23,IT,Pune,9.84,Botbakery,Android Developer,Ahmedabad,Beena
+18070124508,SIDDIQUI MOHD MAZHAR,siddiqui.mohd mazhar.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"13,52,419",2019-23,IT,Pune,9.51,BotBakery,UI/UX Designer,Ahmedabad,Dina
+18070124509,Uday Venkat BIradar,uday.venkat biradar.btech2019@sitpune.edu.in,12345678,HTML/CSS,Yes,"11,83,469",2019-23,IT,Mumbai,6.76,"Indian Institute of Technology, Bombay",Developer,Ahmedabad,Sangita
+18070124510,Ajit Kumar,ajit.kumar.btech2019@sitpune.edu.in,12345678,C/C++,Yes,"16,86,987",2019-23,IT,Mumbai,5.23,"Indian Institute of Technology, Bombay","Development, Coding, Analysis, Testing, Documentation, Dataset creation etc.",Ahmedabad,Bijal
+18070124511,SHUBHAM KUMAR JHA,shubham.kumar jha.btech2019@sitpune.edu.in,12345678,C/C++,Yes,"18,82,742",2019-23,IT,Mumbai,6.74,OS Infotech,IOT Analyst and Developer,Ahmedabad,Rachna
+21070122050,Devarsh Gandhi,devarsh.gandhi.btech2021@sitpune.edu.in,12345678,Python,No,"18,75,000",2021-25,CSE,Godhra,8.75,OS Infotech,AI/ML Intern,Godhra,Rachna
+21070122051,Hitarth Gandhi,hitarth.gandhi.btech2021@sitpune.edu.in,12345678,Python,No,"18,50,000",2021-25,CSE,Surat,9.35,Einfochips,Python Developer Intern,Surat,Purvi
+21070122161,Shubham Naik ,shubham.naik.btech2021@sitpune.edu.in,12345678,Javascript,No,"19,00,000",2021-25,CSE,Valsad,8.5,Reliance Jio,Fullstack Developer,Valsad,Bijal
+21070122174,Shashank Thakkar,shashank.thakkar.btech2021@sitpune.edu.in,12345678,SQL,No,"18,25,500",2021-25,CSE,Ahmedabad,8.45,Amdocs,Sr. Developer,Ahmedabad,Sangita
+22070122503,Kartik Basrani,kartik.basrani.btech2021@sitpune.edu.in,12345678,Java,No,"17,50,000",2021-25,CSE,Godhra,8.4,Zomato,Java and SAP projects,Godhra,Chetna

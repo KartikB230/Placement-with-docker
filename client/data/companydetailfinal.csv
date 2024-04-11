@@ -1,0 +1,1159 @@
+id,companyname,location,jobprofile,skill,backhiring,salarygiven
+1,"Ascent Technosystems Pvt. Ltd.",Pune,"Oracle BI Developer Intern",SQL,No,NULL
+2,"Ascentt Technocraft Pvt Ltd",Pune,"Oracle BI Developer",SQL,No,NULL
+3,"Cummins India Limited",Pune,"Oracle Developer Intern ",SQL,No,NULL
+4,"Cummins India Limited",Pune,"Salesforce Developer Intern",Python,No,NULL
+5,"Cummins India Limited",Pune,"IT intern (work on share point and power bi)",Python,No,NULL
+6,"Cummins India Limited",Pune,Developer,Javascript,No,NULL
+7,"Cyber Crime Department Of Telangana Police",Hyderabad,"Cyber Forensics in field of Cyber Security ",C/C++,No,NULL
+8,Daxndigital,Hyderabad,"Full Stack Developer",HTML/CSS,No,NULL
+9,"Delta IOT India PVT Limited",Hyderabad,"Internet of things",C/C++,No,NULL
+10,"Optobizz Software Pvt. Ltd.",Hyderabad,"Developer Intern",C/C++,No,NULL
+11,"Research Centre Imarat(RCI)",Hyderabad,"Designing Simulation models using Matlab  on Linux operating system.",C/C++,No,NULL
+12,"ThoughtGreen technologies Pvt LTD",Hyderabad,"Ui/ux developer",Javascript,No,NULL
+13,"Anvin Qatar W.L.L.","Doha, Qatar","Mobile Application Developer ",flutter,No,NULL
+14,Fynd,Mumbai,"Full stack developer",Javascript,No,NULL
+15,"Nuro Technologies",Pune,"App Development",Javascript,No,NULL
+16,"Nuro Technologies ",Pune,"App development ",Javascript,No,NULL
+17,"Spheregen Technologies Private Limited",Pune,"Database Management",SQL,No,NULL
+18,"Syngenta India Ltd",Pune,"Front End Web Developer",HTML/CSS,No,NULL
+19,"Coruscate Solutions Pvt. Ltd. (Zujo Division)",Surat,"Data Scientist Intern",Python,No,NULL
+20,"Elite Technocrats",Surat,"Web Development using Angular for front end and . Net for back end",HTML/CSS,No,NULL
+21,"Webmyne system pvt.ltd.",Vadodara,"Web development- Reactjs and nodejs.",HTML/CSS,No,NULL
+22,"code land softwares llp ",Ahmedabad,intern,HTML/CSS,No,NULL
+23,"Finbyz tech, Ahmedabad.",Ahmedabad,"Web developer",Javascript,No,NULL
+24,"Infinity Business Solutions",Ahmedabad,"Web developer",Javascript,No,NULL
+25,"Poly9 , VP Techlabs Pvt. Ltd",Ahmedabad,"Poly9 Trends & Auto-tagging with AI and ML.",Python,No,NULL
+26,"Tech Defence Labs",Ahmedabad,"Vulnerability Assessment/Penetration Testing/Security Analyst Intern",Python,No,NULL
+27,"Techdefence Labs Solutions Pvt Ltd",Ahmedabad,"Cybersecurity, Penetration tester in VAPT department",C/C++,No,NULL
+28,"Tez Minds Software Pvt. Ltd.",Pune,"Junior web developer.",HTML/CSS,No,NULL
+29,"Aayansh Germinate Pvt. Ltd.",Pune,"PHP Web Developer",PHP,No,NULL
+30,Alroumi.solutions,Kuwait,"IT support",C/C++,No,NULL
+31,"Anvitech SYS",Pune,Intern,C/C++,No,NULL
+32,"Cosmo Films Ltd",Aurangabad,"Web development + machine learning (Data Science) +  SAP ABAP (Advanced Business Application Programming)",Javascript,No,NULL
+33,"Expert global solutions Pvt Ltd",Aurangabad,"Intern / Trainee",HTML/CSS,No,NULL
+34,Harman,Pune,"Web Developer ",HTML/CSS,No,NULL
+35,"Hinduja Tech Ltd.",Pune,"Data preprocessing and analysis using customer data in real time project.",Python,No,NULL
+36,"Excellon Software",Pune,"Quality Analyst",Python,No,NULL
+37,"MAXGEN TECHNOLOGIES Pvt LTD",Pune,"Project using python",Python,No,NULL
+38,"MAXGEN TECHNOLOGIES Pvt LTD",Pune,"JAVA TECHNOLOGY",java,No,NULL
+39,"MAXGEN TECHNOLOGIES Pvt LTD",Pune,"Python - ML",Python,No,NULL
+40,TakeMePlaces.in,Pune,"Application Developer and Digital Marketing",Python,No,NULL
+41,"Decathlon Sports India Private Limited",Bangalore,"Link monitoring and Stabilization",Python,No,NULL
+42,Flipshope,Bangalore,"Full stack developer",Javascript,No,NULL
+43,"GANGILVIRAJE SOLUTIONS PVT LTD",Bangalore,"Cloud AWS,java ",java,No,NULL
+44,"ISAN DATA SYSTEMS PVT LTD",Bangalore,"Trainee Intern (Cloud Computing)",java,No,NULL
+45,"Sonata Software ",Bangalore,"Cyber Security",C/C++,No,NULL
+46,tildehat,Bangalore,"Data Science/ML Internship",python,No,NULL
+47,"TransDigm Technologies India PVT LTD",Bangalore,"Artificial Intelligence Intern",Python,No,NULL
+48,Verloop,Bangalore,"Machine Learning Intern",Python,No,NULL
+49,"Symbiosis center for applied AI",Pune,"NLP based research project",Python,No,NULL
+50,"Symbiosis Centre for Applied AI",Pune,"Research Intern",Python,No,NULL
+51,"Tech Mahindra ",Pune,"Student trainee",python,No,NULL
+52,"Tech Mahindra ",Pune,"AI/ML research",Python,No,NULL
+53,"Tech Mahindra ",Pune,"Intern at D-Transform Project",Python,No,NULL
+54,TechMahindra,Pune,"Natural Language Processing",Python,No,NULL
+55,PacificBlue,Pune,"Web Developer",HTML/CSS,No,NULL
+56,"Bluebricks Technologies Private Limited",Pune,"Flutter Developer ",flutter,No,NULL
+57,"Bluebricks Technologies Private Limited",Pune,"AI/Deep Learning",Python,No,NULL
+58,"Bluebricks Technologies Private Limited",Pune,"BlockChain and Smart Contract Developer",C/C++,No,NULL
+59,"Bluebricks Technologies Private Limited",Pune,"AI/Deep Learning",Python,No,NULL
+60,Ameyo,Gurgaon,"Support associate",Python,No,NULL
+61,"Fareye Limited",Noida,"Data analyst ",Python,No,NULL
+62,"FlagBits Technologies",Noida,"Jr. Software Developer Trainee",C/C++,No,NULL
+63,"goldilocks tech solution pvt ltd",Noida,"web based development in java",HTML/CSS,No,NULL
+64,"Massive Mobility",Noida,"Data Analyst",Python,No,NULL
+65,"Publicis Sapient",Gurgaon,"Title -Jr. Associate Marketing Strategy & Analysis (Data Analytics) , Role- Data Analyst",Python,No,NULL
+66,"Speedum Technologies",Chandigarh,"Web Development",HTML/CSS,No,NULL
+67,Agri10x,Pune,"Web Developer ( Angular, MongoDB)",Javascript,No,NULL
+68,Agri10x,Pune,"Web Developer (NodeJS), MongoDB, Javascript",Javascript,No,NULL
+69,Agri10x,Pune,"Web developer",HTML/CSS,No,NULL
+70,Agri10X,Pune,"Web Developer",HTML/CSS,No,NULL
+71,Agri10x,Pune,"Web Developer",HTML/CSS,No,NULL
+72,"Agri10x ",Pune,"Data Analysis/Content Writing",Python,No,NULL
+73,,,,,,NULL
+74,,,,,,NULL
+75,,,,,,NULL
+76,,,,,,NULL
+77,,,,,,NULL
+78,,,,,,NULL
+79,,,,,,NULL
+80,,,,,,NULL
+81,,,,,,NULL
+82,,,,,,NULL
+83,,,,,,NULL
+84,,,,,,NULL
+85,"Agri10x ",Pune,"Android Developer",flutter,No,NULL
+86,,,,,,NULL
+87,"Agri10x ",Pune,"Web Developer(Angular/MongoDB/Node.js)",HTML/CSS,No,NULL
+88,,,,,,NULL
+89,,,,,,NULL
+90,,,,,,NULL
+91,,,,,,NULL
+92,,,,,,NULL
+93,Crenexa,Pune,"Assist with the software projects ",Python,No,NULL
+94,"Impetus Technologies India Pvt. Ltd.",Indore,"Java and Mysql",java,No,NULL
+95,"Surtel Technologies Pvt Ltd",Indore,E-Commerce,HTML/CSS,No,NULL
+96,Fynd,Mumbai,"Front End Developer",HTML/CSS,No,NULL
+97,Markytics,Mumbai,"Data Science Intern",Python,No,NULL
+98,Servify,Mumbai,"Intern Software Security Engineer
+1. Understand the working of the firewall and monitor the traffic going through it.
+2. work on Amazon Web Services
+3. develop a basic Firewall using Amazon Web Services WAF",Python,Yes,NULL
+99,"SEVEN LAKES TECHNOLOGY",Mumbai,"Software Development",C/C++,Yes,NULL
+100,"Terribly Tiny Tales Pvt Ltd",Mumbai,"Full Stack Developer Intern",HTML/CSS,Yes,NULL
+101,"UnFound (Humanity plus Technologies Pvt. Ltd.)",Mumbai,"Machine Learning Intern",Python,Yes,NULL
+102,"VNF ideas private limited.",Mumbai,"Backend Developer",Javascript,Yes,NULL
+103,"Bajaj Finance Limited (BFL)",Pune,"Analysis of customer experience & behaviour for using digital channels v/s assisted channels (Database Architecture, Web Portal Design by analysing customer experience as well as behaviour)",Python,Yes,NULL
+104,"Bajaj Finserv Health Limited",Pune,"Data Science",Python,Yes,NULL
+105,"Bajaj Finserv Health Limited",Pune,"AI/ML Intern",Python,Yes,NULL
+106,"Bajaj Finserv Health Limited",Pune,"Data Science",Python,Yes,NULL
+107,"Bajaj Finserv Health Limited",Pune,"Frontend developer",HTML/CSS,Yes,NULL
+108,"Bajaj Finserv Health Limited",Pune,"Research Analyst ",C/C++,Yes,NULL
+109,,,,,,NULL
+110,,,,,,NULL
+111,,,,,,NULL
+112,,,,,,NULL
+113,,,,,,NULL
+114,,,,,,NULL
+115,,,,,,NULL
+116,,,,,,NULL
+117,,,,,,NULL
+118,,,,,,NULL
+119,,,,,,NULL
+120,"Bajaj Finserv Health Limited",Pune,"Software Development Intern",C/C++,Yes,NULL
+121,"Aukpro Solutions Private Limited",Pune,"Web and App Development ",flutter,Yes,NULL
+122,,,,,,NULL
+123,"Bee Logical software solutions",Pune,"Software developer",flutter,Yes,NULL
+124,,,,,,NULL
+125,Bits&BytesLabs,Pune,"Android App Development ",flutter,Yes,NULL
+126,,,,,,NULL
+127,,,,,,NULL
+128,,,,,,NULL
+129,,,,,,NULL
+130,,,,,,NULL
+131,"eQ Technologic ",Pune,"Software Engineer ",C/C++,Yes,NULL
+132,,,,,,NULL
+133,,,,,,NULL
+134,,,,,,NULL
+135,IBM,Pune,"Project name - Telecom business operation monitoring dashboard. 
+
+Description -this project is a well-designed dashboard which can turn the growing tide of data into a highly digestible format with graphic information thatâ€™s easy to read. This dashboard will display various operation KPI like API monitoring, per min recharge , per min activations etc. Dashboard will also flag if there is any issues with business continuity.",python,Yes,NULL
+136,,,,,,NULL
+137,Multiplactous,Pune,"App Devlopment/Programmer",flutter,Yes,NULL
+138,,,,,,NULL
+139,"TechGenyz Software Private Limited",Nagpur,"Intern-Application Developer",python,Yes,NULL
+140,,,,,,NULL
+141,,,,,,NULL
+142,"A Buzz Company",Pune,"Responsibilities - Tech requirements for two projects 
+
+- Assist in building App based web interface for Creative Bharat e-publication 
+- Assist in building App based web interface for Startup to Stand out knowledge events platform for startups 
+
+Technical requirements 
+- Build API for external users to create their own events on SUSO. 
+- Automate mailer campaign on new events featured. 
+",C/C++,Yes,NULL
+143,,,,,,NULL
+144,,,,,,NULL
+145,,,,,,NULL
+146,,,,,,NULL
+147,,,,,,NULL
+148,"OG Advertising private limited",Pune,"Web Technology Associate(intern)",Python,Yes,NULL
+149,,,,,,NULL
+150,,,,,,NULL
+151,"OG Advertising private limited",Pune,"Web Technology Associate Intern",Python,Yes,NULL
+152,,,,,,NULL
+153,"OG Advertising private limited",Pune,"Web Technology Associate(Intern)",Python,Yes,NULL
+154,,,,,,NULL
+155,,,,,,NULL
+156,,,,,,NULL
+157,,,,,,NULL
+158,,,,,,NULL
+159,"OG Advertising private limited",Pune,"Web Technology Associate(Intern)",Python,Yes,NULL
+160,,,,,,NULL
+161,,,,,,NULL
+162,"SayG S.P.C Bahrain",Bahrain,"Web Technology (PHP/SQL)",sql,No,NULL
+163,,,,,,NULL
+164,,,,,,NULL
+165,"Comet Digital Private Limited",Pune,"Web Developer",HTML/CSS,No,NULL
+166,,,,,,NULL
+167,,,,,,NULL
+168,,,,,,NULL
+169,"DHI technologies private limited",Pune,"Web development",HTML/CSS,No,NULL
+170,,,,,,NULL
+171,"KION India Pvt. Ltd.",Pune,"Java and SAP Projects",Java,No,NULL
+172,"MODERNMONK HEALTHCARE PVT. LTD.",Pune,"I am handling the WordPress Development and Android Development of ModernMonk.in",Java,No,NULL
+173,"ohum healthcare solutions pvt ltd pune",Pune,"understanding the functional requirements and data flow into the system.Gaining the knowledge on advanced J2EE frameworks.Fixing the bugs to ensure the bugs free releases.
+Working on DB queries to get the filtered data.",Java,No,NULL
+174,,,,,,NULL
+175,,,,,,NULL
+176,,,,,,NULL
+177,,,,,,NULL
+178,"Tradexa Technologies Pvt. Ltd.",Pune,"Flutter Developer",,No,NULL
+179,,,,,,NULL
+180,"Wolters Kluwer",Pune,"Data Science Intern",Python,No,NULL
+181,,,,,,NULL
+182,"Career Ninja",Mumbai,"Frontend Developer",C/C++,No,NULL
+183,"Credence Analytics",Mumbai,"Backend developer intern",Javascript,No,NULL
+184,,,,,,NULL
+185,,,,,,NULL
+186,,,,,,NULL
+187,"CRIF solutions private limited.",Pune,"Working as an intern at  CRIF Global Technology India Team. Product and App devlopment for credit bureau. Project name: Credit Flow.",Python,No,NULL
+188,"SM Global",Mumbai,"Website Developer",HTML/CSS,No,NULL
+189,"tag8 - 3Y Ventures LLP",Mumbai,"Web Development",HTML/CSS,No,NULL
+190,,,,,,NULL
+191,"Verve Media",Mumbai,"Junior Web Developer/ Business Analyst ",HTML/CSS,No,NULL
+192,"Data Science Technologies (Pvt) Ltd",Pune,"Creating Intelligent Enterprise Full Stack Solutions which involves (as a indicative list) â€“ product engineering, integrating our range of solutions to give our customers a seamless User Experience, embedding & building Machine Learning models (primarily in the Sales and Marketing domain), and working on various other aspects of building intelligent enterprise cloud and app-based products.",Javascript,No,NULL
+193,,,,,,NULL
+194,,,,,,NULL
+195,,,,,,NULL
+196,"Ecotech IT Solutions",Pune,"Web Development ",HTML/CSS,No,NULL
+197,,,,,,NULL
+198,"HERE Technologies",Mumbai,"Software Intern, working on extracting location data from GIS Satellite.",C/C++,No,NULL
+199,,,,,,NULL
+200,"Infinix Trips Pvt Ltd",Vadodara,"Founder & Director of Startup",C/C++,No,NULL
+201,,,,,,NULL
+202,Pawfect,Pune,"Software development engineering intern ",C/C++,No,NULL
+203,,,,,,NULL
+204,,,,,,NULL
+205,Pawfect,Pune,"Software development engineering intern ",C/C++,No,NULL
+206,"Transition Computing India",Pune,"Web Developer",HTML/CSS,No,NULL
+207,,,,,,NULL
+208,"Wednesday solutions",Pune,Intern,Java,No,NULL
+209,,,,,,NULL
+210,,,,,,NULL
+211,,,,,,NULL
+212,DigimargeterZ,"Navi Mumbai","Web Designing and Development",Javascript,No,NULL
+213,,,,,,NULL
+214,,,,,,NULL
+215,"Finlok(Janmitr Solutions Pvt Ltd )",Pune,"Java web developer",Javascript,No,NULL
+216,,,,,,NULL
+217,,,,,,NULL
+218,,,,,,NULL
+219,,,,,,NULL
+220,,,,,,NULL
+221,,,,,,NULL
+222,,,,,,NULL
+223,"Finlok(Janmitr Solutions Pvt Ltd )",Pune,"UX in Android Development",HTML/CSS,No,NULL
+224,,,,,,NULL
+225,,,,,,NULL
+226,,,,,,NULL
+227,"Reliance JIO","Navi Mumbai","Software Developer",C/C++,No,NULL
+228,,,,,,NULL
+229,"S-Tech Engineering","Navi Mumbai","Web Development",HTML/CSS,No,NULL
+230,,,,,,NULL
+231,"TSS Consultancy Pvt. Ltd.","Navi Mumbai","Manual Tester",C/C++,No,NULL
+232,,,,,,NULL
+233,,,,,,NULL
+234,"TSS Consultancy Pvt. Ltd.","Navi Mumbai","Software Developer Intern",C/C++,No,NULL
+235,"Center for Railway Information System(CRIS)",Delhi,"Android Development Intern",Flutter,No,NULL
+236,,,,,,NULL
+237,,,,,,NULL
+238,,,,,,NULL
+239,,,,,,NULL
+240,,,,,,NULL
+241,"CSC e-Governance Services India Limited","New Delhi","Software Developer ",C/C++,No,NULL
+242,,,,,,NULL
+243,,,,,,NULL
+244,,,,,,NULL
+245,,,,,,NULL
+246,"HPC Sphere","New Delhi","C++ Developer",C/C++,No,NULL
+247,,,,,,NULL
+248,,,,,,NULL
+249,"Khabya Infratech",Pune,"Backend Devlopment",Javascript,No,NULL
+250,,,,,,NULL
+251,,,,,,NULL
+252,,,,,,NULL
+253,,,,,,NULL
+254,,,,,,NULL
+255,"Motherson Sumi Infotech & Design Ltd",Delhi,"Core Java and  Advance java,Spring,Spring boot and hibernate Frameworks",java,Yes,NULL
+256,,,,,,NULL
+257,,,,,,NULL
+258,"Srijan Software Services","Dehradun, Uttarakhand","Job Description: Android Developer (Flutter)",flutter,Yes,NULL
+259,"Vertonics Innovations Private Limited",Delhi,"Python Developer Intern",Python,Yes,NULL
+260,,,,,,NULL
+261,BotBakery,Pune,"Web Developer Intern",HTML/CSS,Yes,NULL
+262,,,,,,NULL
+263,,,,,,NULL
+264,Botbakery,Pune,"Android Developer",Flutter,Yes,NULL
+265,,,,,,NULL
+266,,,,,,NULL
+267,BotBakery,Pune,"UI/UX Designer",HTML/CSS,Yes,NULL
+268,,,,,,NULL
+269,,,,,,NULL
+270,"Indian Institute of Technology, Bombay",Mumbai,Developer,HTML/CSS,Yes,NULL
+271,,,,,,NULL
+272,"Indian Institute of Technology, Bombay",Mumbai,"Development, Coding, Analysis, Testing, Documentation, Dataset creation etc.",C/C++,Yes,NULL
+273,,,,,,NULL
+274,,,,,,NULL
+275,,,,,,NULL
+276,,,,,,NULL
+277,,,,,,NULL
+278,,,,,,NULL
+279,"OS Infotech",Mumbai,"IOT Analyst and Developer",C/C++,Yes,NULL
+280,,,,,,NULL
+281,,,,,,NULL
+282,,,,,,NULL
+283,,,,,,NULL
+284,,,,,,NULL
+285,,,,,,NULL
+286,,,,,,NULL
+287,,,,,,NULL
+288,,,,,,NULL
+289,,,,,,NULL
+290,,,,,,NULL
+291,,,,,,NULL
+292,,,,,,NULL
+293,,,,,,NULL
+294,,,,,,NULL
+295,,,,,,NULL
+296,,,,,,NULL
+297,,,,,,NULL
+298,,,,,,NULL
+299,,,,,,NULL
+300,,,,,,NULL
+301,,,,,,NULL
+302,,,,,,NULL
+303,,,,,,NULL
+304,,,,,,NULL
+305,,,,,,NULL
+306,,,,,,NULL
+307,,,,,,NULL
+308,,,,,,NULL
+309,,,,,,NULL
+310,,,,,,NULL
+311,,,,,,NULL
+312,,,,,,NULL
+313,,,,,,NULL
+314,,,,,,NULL
+315,,,,,,NULL
+316,,,,,,NULL
+317,,,,,,NULL
+318,,,,,,NULL
+319,,,,,,NULL
+320,,,,,,NULL
+321,,,,,,NULL
+322,,,,,,NULL
+323,,,,,,NULL
+324,,,,,,NULL
+325,,,,,,NULL
+326,,,,,,NULL
+327,,,,,,NULL
+328,,,,,,NULL
+329,,,,,,NULL
+330,,,,,,NULL
+331,,,,,,NULL
+332,,,,,,NULL
+333,,,,,,NULL
+334,,,,,,NULL
+335,,,,,,NULL
+336,,,,,,NULL
+337,,,,,,NULL
+338,,,,,,NULL
+339,,,,,,NULL
+340,,,,,,NULL
+341,,,,,,NULL
+342,,,,,,NULL
+343,,,,,,NULL
+344,,,,,,NULL
+345,,,,,,NULL
+346,,,,,,NULL
+347,,,,,,NULL
+348,,,,,,NULL
+349,,,,,,NULL
+350,,,,,,NULL
+351,,,,,,NULL
+352,,,,,,NULL
+353,,,,,,NULL
+354,,,,,,NULL
+355,,,,,,NULL
+356,,,,,,NULL
+357,,,,,,NULL
+358,,,,,,NULL
+359,,,,,,NULL
+360,,,,,,NULL
+361,,,,,,NULL
+362,,,,,,NULL
+363,,,,,,NULL
+364,,,,,,NULL
+365,,,,,,NULL
+366,,,,,,NULL
+367,,,,,,NULL
+368,,,,,,NULL
+369,,,,,,NULL
+370,,,,,,NULL
+371,,,,,,NULL
+372,,,,,,NULL
+373,,,,,,NULL
+374,,,,,,NULL
+375,,,,,,NULL
+376,,,,,,NULL
+377,,,,,,NULL
+378,,,,,,NULL
+379,,,,,,NULL
+380,,,,,,NULL
+381,,,,,,NULL
+382,,,,,,NULL
+383,,,,,,NULL
+384,,,,,,NULL
+385,,,,,,NULL
+386,,,,,,NULL
+387,,,,,,NULL
+388,,,,,,NULL
+389,,,,,,NULL
+390,,,,,,NULL
+391,,,,,,NULL
+392,,,,,,NULL
+393,,,,,,NULL
+394,,,,,,NULL
+395,,,,,,NULL
+396,,,,,,NULL
+397,,,,,,NULL
+398,,,,,,NULL
+399,,,,,,NULL
+400,,,,,,NULL
+401,,,,,,NULL
+402,,,,,,NULL
+403,,,,,,NULL
+404,,,,,,NULL
+405,,,,,,NULL
+406,,,,,,NULL
+407,,,,,,NULL
+408,,,,,,NULL
+409,,,,,,NULL
+410,,,,,,NULL
+411,,,,,,NULL
+412,,,,,,NULL
+413,,,,,,NULL
+414,,,,,,NULL
+415,,,,,,NULL
+416,,,,,,NULL
+417,,,,,,NULL
+418,,,,,,NULL
+419,,,,,,NULL
+420,,,,,,NULL
+421,,,,,,NULL
+422,,,,,,NULL
+423,,,,,,NULL
+424,,,,,,NULL
+425,,,,,,NULL
+426,,,,,,NULL
+427,,,,,,NULL
+428,,,,,,NULL
+429,,,,,,NULL
+430,,,,,,NULL
+431,,,,,,NULL
+432,,,,,,NULL
+433,,,,,,NULL
+434,,,,,,NULL
+435,,,,,,NULL
+436,,,,,,NULL
+437,,,,,,NULL
+438,,,,,,NULL
+439,,,,,,NULL
+440,,,,,,NULL
+441,,,,,,NULL
+442,,,,,,NULL
+443,,,,,,NULL
+444,,,,,,NULL
+445,,,,,,NULL
+446,,,,,,NULL
+447,,,,,,NULL
+448,,,,,,NULL
+449,,,,,,NULL
+450,,,,,,NULL
+451,,,,,,NULL
+452,,,,,,NULL
+453,,,,,,NULL
+454,,,,,,NULL
+455,,,,,,NULL
+456,,,,,,NULL
+457,,,,,,NULL
+458,,,,,,NULL
+459,,,,,,NULL
+460,,,,,,NULL
+461,,,,,,NULL
+462,,,,,,NULL
+463,,,,,,NULL
+464,,,,,,NULL
+465,,,,,,NULL
+466,,,,,,NULL
+467,,,,,,NULL
+468,,,,,,NULL
+469,,,,,,NULL
+470,,,,,,NULL
+471,,,,,,NULL
+472,,,,,,NULL
+473,,,,,,NULL
+474,,,,,,NULL
+475,,,,,,NULL
+476,,,,,,NULL
+477,,,,,,NULL
+478,,,,,,NULL
+479,,,,,,NULL
+480,,,,,,NULL
+481,,,,,,NULL
+482,,,,,,NULL
+483,,,,,,NULL
+484,,,,,,NULL
+485,,,,,,NULL
+486,,,,,,NULL
+487,,,,,,NULL
+488,,,,,,NULL
+489,,,,,,NULL
+490,,,,,,NULL
+491,,,,,,NULL
+492,,,,,,NULL
+493,,,,,,NULL
+494,,,,,,NULL
+495,,,,,,NULL
+496,,,,,,NULL
+497,,,,,,NULL
+498,,,,,,NULL
+499,,,,,,NULL
+500,,,,,,NULL
+501,,,,,,NULL
+502,,,,,,NULL
+503,,,,,,NULL
+504,,,,,,NULL
+505,,,,,,NULL
+506,,,,,,NULL
+507,,,,,,NULL
+508,,,,,,NULL
+509,,,,,,NULL
+510,,,,,,NULL
+511,,,,,,NULL
+512,,,,,,NULL
+513,,,,,,NULL
+514,,,,,,NULL
+515,,,,,,NULL
+516,,,,,,NULL
+517,,,,,,NULL
+518,,,,,,NULL
+519,,,,,,NULL
+520,,,,,,NULL
+521,,,,,,NULL
+522,,,,,,NULL
+523,,,,,,NULL
+524,,,,,,NULL
+525,,,,,,NULL
+526,,,,,,NULL
+527,,,,,,NULL
+528,,,,,,NULL
+529,,,,,,NULL
+530,,,,,,NULL
+531,,,,,,NULL
+532,,,,,,NULL
+533,,,,,,NULL
+534,,,,,,NULL
+535,,,,,,NULL
+536,,,,,,NULL
+537,,,,,,NULL
+538,,,,,,NULL
+539,,,,,,NULL
+540,,,,,,NULL
+541,,,,,,NULL
+542,,,,,,NULL
+543,,,,,,NULL
+544,,,,,,NULL
+545,,,,,,NULL
+546,,,,,,NULL
+547,,,,,,NULL
+548,,,,,,NULL
+549,,,,,,NULL
+550,,,,,,NULL
+551,,,,,,NULL
+552,,,,,,NULL
+553,,,,,,NULL
+554,,,,,,NULL
+555,,,,,,NULL
+556,,,,,,NULL
+557,,,,,,NULL
+558,,,,,,NULL
+559,,,,,,NULL
+560,,,,,,NULL
+561,,,,,,NULL
+562,,,,,,NULL
+563,,,,,,NULL
+564,,,,,,NULL
+565,,,,,,NULL
+566,,,,,,NULL
+567,,,,,,NULL
+568,,,,,,NULL
+569,,,,,,NULL
+570,,,,,,NULL
+571,,,,,,NULL
+572,,,,,,NULL
+573,,,,,,NULL
+574,,,,,,NULL
+575,,,,,,NULL
+576,,,,,,NULL
+577,,,,,,NULL
+578,,,,,,NULL
+579,,,,,,NULL
+580,,,,,,NULL
+581,,,,,,NULL
+582,,,,,,NULL
+583,,,,,,NULL
+584,,,,,,NULL
+585,,,,,,NULL
+586,,,,,,NULL
+587,,,,,,NULL
+588,,,,,,NULL
+589,,,,,,NULL
+590,,,,,,NULL
+591,,,,,,NULL
+592,,,,,,NULL
+593,,,,,,NULL
+594,,,,,,NULL
+595,,,,,,NULL
+596,,,,,,NULL
+597,,,,,,NULL
+598,,,,,,NULL
+599,,,,,,NULL
+600,,,,,,NULL
+601,,,,,,NULL
+602,,,,,,NULL
+603,,,,,,NULL
+604,,,,,,NULL
+605,,,,,,NULL
+606,,,,,,NULL
+607,,,,,,NULL
+608,,,,,,NULL
+609,,,,,,NULL
+610,,,,,,NULL
+611,,,,,,NULL
+612,,,,,,NULL
+613,,,,,,NULL
+614,,,,,,NULL
+615,,,,,,NULL
+616,,,,,,NULL
+617,,,,,,NULL
+618,,,,,,NULL
+619,,,,,,NULL
+620,,,,,,NULL
+621,,,,,,NULL
+622,,,,,,NULL
+623,,,,,,NULL
+624,,,,,,NULL
+625,,,,,,NULL
+626,,,,,,NULL
+627,,,,,,NULL
+628,,,,,,NULL
+629,,,,,,NULL
+630,,,,,,NULL
+631,,,,,,NULL
+632,,,,,,NULL
+633,,,,,,NULL
+634,,,,,,NULL
+635,,,,,,NULL
+636,,,,,,NULL
+637,,,,,,NULL
+638,,,,,,NULL
+639,,,,,,NULL
+640,,,,,,NULL
+641,,,,,,NULL
+642,,,,,,NULL
+643,,,,,,NULL
+644,,,,,,NULL
+645,,,,,,NULL
+646,,,,,,NULL
+647,,,,,,NULL
+648,,,,,,NULL
+649,,,,,,NULL
+650,,,,,,NULL
+651,,,,,,NULL
+652,,,,,,NULL
+653,,,,,,NULL
+654,,,,,,NULL
+655,,,,,,NULL
+656,,,,,,NULL
+657,,,,,,NULL
+658,,,,,,NULL
+659,,,,,,NULL
+660,,,,,,NULL
+661,,,,,,NULL
+662,,,,,,NULL
+663,,,,,,NULL
+664,,,,,,NULL
+665,,,,,,NULL
+666,,,,,,NULL
+667,,,,,,NULL
+668,,,,,,NULL
+669,,,,,,NULL
+670,,,,,,NULL
+671,,,,,,NULL
+672,,,,,,NULL
+673,,,,,,NULL
+674,,,,,,NULL
+675,,,,,,NULL
+676,,,,,,NULL
+677,,,,,,NULL
+678,,,,,,NULL
+679,,,,,,NULL
+680,,,,,,NULL
+681,,,,,,NULL
+682,,,,,,NULL
+683,,,,,,NULL
+684,,,,,,NULL
+685,,,,,,NULL
+686,,,,,,NULL
+687,,,,,,NULL
+688,,,,,,NULL
+689,,,,,,NULL
+690,,,,,,NULL
+691,,,,,,NULL
+692,,,,,,NULL
+693,,,,,,NULL
+694,,,,,,NULL
+695,,,,,,NULL
+696,,,,,,NULL
+697,,,,,,NULL
+698,,,,,,NULL
+699,,,,,,NULL
+700,,,,,,NULL
+701,,,,,,NULL
+702,,,,,,NULL
+703,,,,,,NULL
+704,,,,,,NULL
+705,,,,,,NULL
+706,,,,,,NULL
+707,,,,,,NULL
+708,,,,,,NULL
+709,,,,,,NULL
+710,,,,,,NULL
+711,,,,,,NULL
+712,,,,,,NULL
+713,,,,,,NULL
+714,,,,,,NULL
+715,,,,,,NULL
+716,,,,,,NULL
+717,,,,,,NULL
+718,,,,,,NULL
+719,,,,,,NULL
+720,,,,,,NULL
+721,,,,,,NULL
+722,,,,,,NULL
+723,,,,,,NULL
+724,,,,,,NULL
+725,,,,,,NULL
+726,,,,,,NULL
+727,,,,,,NULL
+728,,,,,,NULL
+729,,,,,,NULL
+730,,,,,,NULL
+731,,,,,,NULL
+732,,,,,,NULL
+733,,,,,,NULL
+734,,,,,,NULL
+735,,,,,,NULL
+736,,,,,,NULL
+737,,,,,,NULL
+738,,,,,,NULL
+739,,,,,,NULL
+740,,,,,,NULL
+741,,,,,,NULL
+742,,,,,,NULL
+743,,,,,,NULL
+744,,,,,,NULL
+745,,,,,,NULL
+746,,,,,,NULL
+747,,,,,,NULL
+748,,,,,,NULL
+749,,,,,,NULL
+750,,,,,,NULL
+751,,,,,,NULL
+752,,,,,,NULL
+753,,,,,,NULL
+754,,,,,,NULL
+755,,,,,,NULL
+756,,,,,,NULL
+757,,,,,,NULL
+758,,,,,,NULL
+759,,,,,,NULL
+760,,,,,,NULL
+761,,,,,,NULL
+762,,,,,,NULL
+763,,,,,,NULL
+764,,,,,,NULL
+765,,,,,,NULL
+766,,,,,,NULL
+767,,,,,,NULL
+768,,,,,,NULL
+769,,,,,,NULL
+770,,,,,,NULL
+771,,,,,,NULL
+772,,,,,,NULL
+773,,,,,,NULL
+774,,,,,,NULL
+775,,,,,,NULL
+776,,,,,,NULL
+777,,,,,,NULL
+778,,,,,,NULL
+779,,,,,,NULL
+780,,,,,,NULL
+781,,,,,,NULL
+782,,,,,,NULL
+783,,,,,,NULL
+784,,,,,,NULL
+785,,,,,,NULL
+786,,,,,,NULL
+787,,,,,,NULL
+788,,,,,,NULL
+789,,,,,,NULL
+790,,,,,,NULL
+791,,,,,,NULL
+792,,,,,,NULL
+793,,,,,,NULL
+794,,,,,,NULL
+795,,,,,,NULL
+796,,,,,,NULL
+797,,,,,,NULL
+798,,,,,,NULL
+799,,,,,,NULL
+800,,,,,,NULL
+801,,,,,,NULL
+802,,,,,,NULL
+803,,,,,,NULL
+804,,,,,,NULL
+805,,,,,,NULL
+806,,,,,,NULL
+807,,,,,,NULL
+808,,,,,,NULL
+809,,,,,,NULL
+810,,,,,,NULL
+811,,,,,,NULL
+812,,,,,,NULL
+813,,,,,,NULL
+814,,,,,,NULL
+815,,,,,,NULL
+816,,,,,,NULL
+817,,,,,,NULL
+818,,,,,,NULL
+819,,,,,,NULL
+820,,,,,,NULL
+821,,,,,,NULL
+822,,,,,,NULL
+823,,,,,,NULL
+824,,,,,,NULL
+825,,,,,,NULL
+826,,,,,,NULL
+827,,,,,,NULL
+828,,,,,,NULL
+829,,,,,,NULL
+830,,,,,,NULL
+831,,,,,,NULL
+832,,,,,,NULL
+833,,,,,,NULL
+834,,,,,,NULL
+835,,,,,,NULL
+836,,,,,,NULL
+837,,,,,,NULL
+838,,,,,,NULL
+839,,,,,,NULL
+840,,,,,,NULL
+841,,,,,,NULL
+842,,,,,,NULL
+843,,,,,,NULL
+844,,,,,,NULL
+845,,,,,,NULL
+846,,,,,,NULL
+847,,,,,,NULL
+848,,,,,,NULL
+849,,,,,,NULL
+850,,,,,,NULL
+851,,,,,,NULL
+852,,,,,,NULL
+853,,,,,,NULL
+854,,,,,,NULL
+855,,,,,,NULL
+856,,,,,,NULL
+857,,,,,,NULL
+858,,,,,,NULL
+859,,,,,,NULL
+860,,,,,,NULL
+861,,,,,,NULL
+862,,,,,,NULL
+863,,,,,,NULL
+864,,,,,,NULL
+865,,,,,,NULL
+866,,,,,,NULL
+867,,,,,,NULL
+868,,,,,,NULL
+869,,,,,,NULL
+870,,,,,,NULL
+871,,,,,,NULL
+872,,,,,,NULL
+873,,,,,,NULL
+874,,,,,,NULL
+875,,,,,,NULL
+876,,,,,,NULL
+877,,,,,,NULL
+878,,,,,,NULL
+879,,,,,,NULL
+880,,,,,,NULL
+881,,,,,,NULL
+882,,,,,,NULL
+883,,,,,,NULL
+884,,,,,,NULL
+885,,,,,,NULL
+886,,,,,,NULL
+887,,,,,,NULL
+888,,,,,,NULL
+889,,,,,,NULL
+890,,,,,,NULL
+891,,,,,,NULL
+892,,,,,,NULL
+893,,,,,,NULL
+894,,,,,,NULL
+895,,,,,,NULL
+896,,,,,,NULL
+897,,,,,,NULL
+898,,,,,,NULL
+899,,,,,,NULL
+900,,,,,,NULL
+901,,,,,,NULL
+902,,,,,,NULL
+903,,,,,,NULL
+904,,,,,,NULL
+905,,,,,,NULL
+906,,,,,,NULL
+907,,,,,,NULL
+908,,,,,,NULL
+909,,,,,,NULL
+910,,,,,,NULL
+911,,,,,,NULL
+912,,,,,,NULL
+913,,,,,,NULL
+914,,,,,,NULL
+915,,,,,,NULL
+916,,,,,,NULL
+917,,,,,,NULL
+918,,,,,,NULL
+919,,,,,,NULL
+920,,,,,,NULL
+921,,,,,,NULL
+922,,,,,,NULL
+923,,,,,,NULL
+924,,,,,,NULL
+925,,,,,,NULL
+926,,,,,,NULL
+927,,,,,,NULL
+928,,,,,,NULL
+929,,,,,,NULL
+930,,,,,,NULL
+931,,,,,,NULL
+932,,,,,,NULL
+933,,,,,,NULL
+934,,,,,,NULL
+935,,,,,,NULL
+936,,,,,,NULL
+937,,,,,,NULL
+938,,,,,,NULL
+939,,,,,,NULL
+940,,,,,,NULL
+941,,,,,,NULL
+942,,,,,,NULL
+943,,,,,,NULL
+944,,,,,,NULL
+945,,,,,,NULL
+946,,,,,,NULL
+947,,,,,,NULL
+948,,,,,,NULL
+949,,,,,,NULL
+950,,,,,,NULL
+951,,,,,,NULL
+952,,,,,,NULL
+953,,,,,,NULL
+954,,,,,,NULL
+955,,,,,,NULL
+956,,,,,,NULL
+957,,,,,,NULL
+958,,,,,,NULL
+959,,,,,,NULL
+960,,,,,,NULL
+961,,,,,,NULL
+962,,,,,,NULL
+963,,,,,,NULL
+964,,,,,,NULL
+965,,,,,,NULL
+966,,,,,,NULL
+967,,,,,,NULL
+968,,,,,,NULL
+969,,,,,,NULL
+970,,,,,,NULL
+971,,,,,,NULL
+972,,,,,,NULL
+973,,,,,,NULL
+974,,,,,,NULL
+975,,,,,,NULL
+976,,,,,,NULL
+977,,,,,,NULL
+978,,,,,,NULL
+979,,,,,,NULL
+980,,,,,,NULL
+981,,,,,,NULL
+982,,,,,,NULL
+983,,,,,,NULL
+984,,,,,,NULL
+985,,,,,,NULL
+986,,,,,,NULL
+987,,,,,,NULL
+988,,,,,,NULL
+989,,,,,,NULL
+990,,,,,,NULL
+991,,,,,,NULL
+992,,,,,,NULL
+993,,,,,,NULL
+994,,,,,,NULL
+995,,,,,,NULL
+996,,,,,,NULL
+997,,,,,,NULL
+998,,,,,,NULL
+999,,,,,,NULL
+1000,NULL,NULL,NULL,NULL,NULL,1376249
+1001,NULL,NULL,NULL,NULL,NULL,1126241
+1002,NULL,NULL,NULL,NULL,NULL,1565707
+1003,NULL,NULL,NULL,NULL,NULL,1210050
+1004,NULL,NULL,NULL,NULL,NULL,1185303
+1005,NULL,NULL,NULL,NULL,NULL,1279451
+1006,NULL,NULL,NULL,NULL,NULL,1096080
+1007,NULL,NULL,NULL,NULL,NULL,931085
+1008,NULL,NULL,NULL,NULL,NULL,1944733
+1009,NULL,NULL,NULL,NULL,NULL,935618
+1010,NULL,NULL,NULL,NULL,NULL,770535
+1011,NULL,NULL,NULL,NULL,NULL,773782
+1012,NULL,NULL,NULL,NULL,NULL,1848031
+1013,NULL,NULL,NULL,NULL,NULL,1551300
+1014,NULL,NULL,NULL,NULL,NULL,1747299
+1015,NULL,NULL,NULL,NULL,NULL,1368038
+1016,NULL,NULL,NULL,NULL,NULL,1027582
+1017,NULL,NULL,NULL,NULL,NULL,1193222
+1018,NULL,NULL,NULL,NULL,NULL,849414
+1019,NULL,NULL,NULL,NULL,NULL,1140320
+1020,NULL,NULL,NULL,NULL,NULL,868160
+1021,NULL,NULL,NULL,NULL,NULL,1213500
+1022,NULL,NULL,NULL,NULL,NULL,814682
+1023,NULL,NULL,NULL,NULL,NULL,1498184
+1024,NULL,NULL,NULL,NULL,NULL,1406472
+1025,NULL,NULL,NULL,NULL,NULL,1373394
+1026,NULL,NULL,NULL,NULL,NULL,1193908
+1027,NULL,NULL,NULL,NULL,NULL,1023822
+1028,NULL,NULL,NULL,NULL,NULL,896371
+1029,NULL,NULL,NULL,NULL,NULL,819646
+1030,NULL,NULL,NULL,NULL,NULL,1921444
+1031,NULL,NULL,NULL,NULL,NULL,1023436
+1032,NULL,NULL,NULL,NULL,NULL,1205108
+1033,NULL,NULL,NULL,NULL,NULL,1877690
+1034,NULL,NULL,NULL,NULL,NULL,1211375
+1035,NULL,NULL,NULL,NULL,NULL,1975161
+1036,NULL,NULL,NULL,NULL,NULL,783550
+1037,NULL,NULL,NULL,NULL,NULL,723163
+1038,NULL,NULL,NULL,NULL,NULL,1328876
+1039,NULL,NULL,NULL,NULL,NULL,1316104
+1040,NULL,NULL,NULL,NULL,NULL,1855432
+1041,NULL,NULL,NULL,NULL,NULL,1894972
+1042,NULL,NULL,NULL,NULL,NULL,1471472
+1043,NULL,NULL,NULL,NULL,NULL,1620282
+1044,NULL,NULL,NULL,NULL,NULL,778092
+1045,NULL,NULL,NULL,NULL,NULL,1629963
+1046,NULL,NULL,NULL,NULL,NULL,1813287
+1047,NULL,NULL,NULL,NULL,NULL,1966951
+1048,NULL,NULL,NULL,NULL,NULL,1170642
+1049,NULL,NULL,NULL,NULL,NULL,1239632
+1050,NULL,NULL,NULL,NULL,NULL,1696156
+1051,NULL,NULL,NULL,NULL,NULL,1896829
+1052,NULL,NULL,NULL,NULL,NULL,825695
+1053,NULL,NULL,NULL,NULL,NULL,669664
+1054,NULL,NULL,NULL,NULL,NULL,759406
+1055,NULL,NULL,NULL,NULL,NULL,1841360
+1056,NULL,NULL,NULL,NULL,NULL,816749
+1057,NULL,NULL,NULL,NULL,NULL,658890
+1058,NULL,NULL,NULL,NULL,NULL,1832383
+1059,NULL,NULL,NULL,NULL,NULL,713783
+1060,NULL,NULL,NULL,NULL,NULL,912699
+1061,NULL,NULL,NULL,NULL,NULL,1263530
+1062,NULL,NULL,NULL,NULL,NULL,1591051
+1063,NULL,NULL,NULL,NULL,NULL,896565
+1064,NULL,NULL,NULL,NULL,NULL,1016313
+1065,NULL,NULL,NULL,NULL,NULL,1533152
+1066,NULL,NULL,NULL,NULL,NULL,619849
+1067,NULL,NULL,NULL,NULL,NULL,1338497
+1068,NULL,NULL,NULL,NULL,NULL,1179746
+1069,NULL,NULL,NULL,NULL,NULL,1968807
+1070,NULL,NULL,NULL,NULL,NULL,1904130
+1071,NULL,NULL,NULL,NULL,NULL,986770
+1072,NULL,NULL,NULL,NULL,NULL,940995
+1073,NULL,NULL,NULL,NULL,NULL,659387
+1074,NULL,NULL,NULL,NULL,NULL,1003966
+1075,NULL,NULL,NULL,NULL,NULL,732851
+1076,NULL,NULL,NULL,NULL,NULL,1787448
+1077,NULL,NULL,NULL,NULL,NULL,693612
+1078,NULL,NULL,NULL,NULL,NULL,1148931
+1079,NULL,NULL,NULL,NULL,NULL,732451
+1080,NULL,NULL,NULL,NULL,NULL,1072088
+1081,NULL,NULL,NULL,NULL,NULL,676634
+1082,NULL,NULL,NULL,NULL,NULL,978750
+1083,NULL,NULL,NULL,NULL,NULL,1095900
+1084,NULL,NULL,NULL,NULL,NULL,1684272
+1085,NULL,NULL,NULL,NULL,NULL,1035831
+1086,NULL,NULL,NULL,NULL,NULL,1461338
+1087,NULL,NULL,NULL,NULL,NULL,1487743
+1088,NULL,NULL,NULL,NULL,NULL,1603104
+1089,NULL,NULL,NULL,NULL,NULL,1359743
+1090,NULL,NULL,NULL,NULL,NULL,1816799
+1091,NULL,NULL,NULL,NULL,NULL,1938088
+1092,NULL,NULL,NULL,NULL,NULL,705355
+1093,NULL,NULL,NULL,NULL,NULL,1583480
+1094,NULL,NULL,NULL,NULL,NULL,1150927
+1095,NULL,NULL,NULL,NULL,NULL,1840575
+1096,NULL,NULL,NULL,NULL,NULL,852452
+1097,NULL,NULL,NULL,NULL,NULL,1628006
+1098,NULL,NULL,NULL,NULL,NULL,1609944
+1099,NULL,NULL,NULL,NULL,NULL,666810
+1100,NULL,NULL,NULL,NULL,NULL,819867
+1101,NULL,NULL,NULL,NULL,NULL,1433145
+1102,NULL,NULL,NULL,NULL,NULL,1207187
+1103,NULL,NULL,NULL,NULL,NULL,1823386
+1104,NULL,NULL,NULL,NULL,NULL,1705634
+1105,NULL,NULL,NULL,NULL,NULL,1504271
+1106,NULL,NULL,NULL,NULL,NULL,1590278
+1107,NULL,NULL,NULL,NULL,NULL,1726315
+1108,NULL,NULL,NULL,NULL,NULL,669804
+1109,NULL,NULL,NULL,NULL,NULL,985234
+1110,NULL,NULL,NULL,NULL,NULL,1098101
+1111,NULL,NULL,NULL,NULL,NULL,1021289
+1112,NULL,NULL,NULL,NULL,NULL,1548088
+1113,NULL,NULL,NULL,NULL,NULL,1558511
+1114,NULL,NULL,NULL,NULL,NULL,605212
+1115,NULL,NULL,NULL,NULL,NULL,1076868
+1116,NULL,NULL,NULL,NULL,NULL,875162
+1117,NULL,NULL,NULL,NULL,NULL,1312716
+1118,NULL,NULL,NULL,NULL,NULL,1930895
+1119,NULL,NULL,NULL,NULL,NULL,1305609
+1120,NULL,NULL,NULL,NULL,NULL,1297319
+1121,NULL,NULL,NULL,NULL,NULL,1569053
+1122,NULL,NULL,NULL,NULL,NULL,1674569
+1123,NULL,NULL,NULL,NULL,NULL,1192870
+1124,NULL,NULL,NULL,NULL,NULL,1164626
+1125,NULL,NULL,NULL,NULL,NULL,1178618
+1126,NULL,NULL,NULL,NULL,NULL,626692
+1127,NULL,NULL,NULL,NULL,NULL,1386576
+1128,NULL,NULL,NULL,NULL,NULL,1045167
+1129,NULL,NULL,NULL,NULL,NULL,1994704
+1130,NULL,NULL,NULL,NULL,NULL,1282970
+1131,NULL,NULL,NULL,NULL,NULL,1416285
+1132,NULL,NULL,NULL,NULL,NULL,663879
+1133,NULL,NULL,NULL,NULL,NULL,1743178
+1134,NULL,NULL,NULL,NULL,NULL,853287
+1135,NULL,NULL,NULL,NULL,NULL,1513500
+1136,NULL,NULL,NULL,NULL,NULL,1157672
+1137,NULL,NULL,NULL,NULL,NULL,680335
+1138,NULL,NULL,NULL,NULL,NULL,1066554
+1139,NULL,NULL,NULL,NULL,NULL,1712586
+1140,NULL,NULL,NULL,NULL,NULL,939213
+1141,NULL,NULL,NULL,NULL,NULL,1352419
+1142,NULL,NULL,NULL,NULL,NULL,1183469
+1143,NULL,NULL,NULL,NULL,NULL,1686987
+1144,NULL,NULL,NULL,NULL,NULL,1882742
