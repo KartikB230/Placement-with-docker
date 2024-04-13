@@ -6,7 +6,7 @@ import { useRef } from 'react'
 import moment from "moment";
 
 function Back() {
-    const [companystatus, setCompanystatus] = useState("");
+    const [companystatus, setCompanystatus] = useState("You dont have any backlog");
     const [companies, setCompanies] = useState([]);
     const location = useLocation();
     console.log(location.state)
@@ -33,16 +33,15 @@ function Back() {
     useEffect(() => {
         axios.post("http://localhost:3001/backstud", {
             prn: prn
-        }).then((response) => {
-            if (response.data.message) {
-                setCompanystatus(response.data.message);
-            } else {
-                setCompanies(response.data)
-                    .catch((error) => console.log(error));
-            }
-        })
+        }).then((response) => response.data) // Adjusted to response.data to directly access the response data
+            .then((data) => {
+                // Update the state with the response data
+                setCompanies(data);
+            })
+            .catch((error) => console.error(error));
     }, []);
 
+    
     return (
 
         <>
@@ -102,27 +101,27 @@ function Back() {
 
 
 
-            
+
             <div>
 
                 <h1 className="backhead">🔸List of Companies🔸</h1>
+                <hr style={{ borderWidth: "3px", marginTop: "15px" }}></hr>
 
                 
-                    <hr style={{ borderWidth: "3px", marginTop: "15px" }}></hr>
+                {companies.length === 0 ?
+                    (<h1 style={{ color: 'red', fontSize: '15px', textAlign: 'center', marginTop: '20px' }}>{companystatus}</h1>) :
+                    (<body style={{ backgroundColor: "#f18787" }}>
+                        {companies.map((company) => (
+                            <div className="backlogdiv" key={company.companyid}>
+                                <h3 className="backheadd">{company.companyname}</h3>
+                                <hr style={{ borderWidth: "2px" }}></hr>
+                                <p><b>Location:</b> {company.location}</p>
+                                <p><b>Job Profile:</b> {company.jobprofile}</p>
+                            </div>
+                        ))}
+                    </body>)}
 
-                    <h1 style={{color: 'red', fontSize: '15px', textAlign: 'center', marginTop: '20px'}}>{companystatus}</h1>
 
-                    <body style={{ backgroundColor: "#f18787" }}>
-
-                    {companies.map((company) => (
-                        <div className="backlogdiv" key={company.companyid}>
-                            <h3 className="backheadd">{company.companyname}</h3>
-                            <hr style={{ borderWidth: "2px" }}></hr>
-                            <p><b>Location:</b> {company.location}</p>
-                            <p><b>Job Profile:</b> {company.jobprofile}</p>
-                        </div>
-                    ))}
-                </body>
             </div>
         </>
     );

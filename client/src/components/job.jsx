@@ -1,7 +1,9 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import {Link, useLocation} from 'react-router-dom';
 import ReactToExcel from "react-html-table-to-excel"
 import {useNavigate} from 'react-router-dom'
+import Axios from 'axios';
+import axios from "axios";
 
 const JobMatch = () => {
   const [company, setcompany] = useState([]);
@@ -23,20 +25,19 @@ const JobMatch = () => {
       prn: prn,
     };
     // Send a POST request to the server with the request body
-    fetch("http://localhost:3001/studentskillmatch", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(requestBody),
-    })
-      .then((response) => response.json())
+     // Empty array indicates the effect runs only once, similar to componentDidMount
+  }
+
+  useEffect(() => {
+    axios.post("http://localhost:3001/studentskillmatch", {
+      prn: prn,
+    }).then((response) => response.data) // Adjusted to response.data to directly access the response data
       .then((data) => {
         // Update the state with the response data
         setcompany(data);
       })
       .catch((error) => console.error(error));
-  };
+  }, []);
 
   return (
 
