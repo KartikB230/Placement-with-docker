@@ -1,3 +1,7 @@
+import Amplify from 'aws-amplify';
+import awsExports from './aws-exports';
+Amplify.configure(awsExports);
+
 const express = require('express');
 const multer = require('multer');
 const path = require('path');

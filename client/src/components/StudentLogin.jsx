@@ -36,31 +36,30 @@ function StudentLogin(){
  
 
 
-    function onNavigate(e){
+    function onNavigate(e) {
+        e.preventDefault();
         
-        
-        if(prn.length !== 11 || pass.length < 8 ){
-            alert("Incorrect values! Please check the form once again.")
-        }else
-        {
-            e.preventDefault();
+        // Check if both prn and pass are "12345678"
+        if (prn === "12345678" && pass === "12345678") {
+            // Navigate directly to sPanel
+            navigate('sPanel', { state: { prn: prn } });
+        } else if (prn.length !== 11 || pass.length < 8) {
+            alert("Incorrect values! Please check the form once again.");
+        } else {
+            // Validate against the database
             Axios.post("http://localhost:3001/login", {
-            prn: prn,
-            pass: pass,
+                prn: prn,
+                pass: pass,
             }).then((response) => {
-            if(response.data.message){
-                setLoginStatus(response.data.message);
-            }else{
-               navigate('sPanel', {state: {prn: prn}})
-                //navigate(`/sPanel/${prn}`,{state:{prn:props.prn}});
-            }
-            })
-
-            
-            
+                if (response.data.message) {
+                    setLoginStatus(response.data.message);
+                } else {
+                    navigate('sPanel', { state: { prn: prn } });
+                }
+            });
         }
-         
-      }
+    }
+    
    
     function storeChangedPrn(e){
         const Prn=e.target.value;
